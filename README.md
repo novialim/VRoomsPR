@@ -33,6 +33,7 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 
 #### Implementation:
 
+* A-Frame(Web-VR framework) structure setup
 * Front-end development (Vanilla CSS, HTML)
 * Responsive web design (Media queries)
 * Setup MVC folder structure
@@ -55,7 +56,7 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 - - -
 
 #### Team Member: Priyanka Arora
-* Researched on A-frame(Web-VR framework) and introduced to team.
+* Researched on A-Frame(Web-VR framework) and introduced to team.
 * Part of Database schema design
 * Created table structure for User Authentication using Mongo DB.
 * Implemented User Authentication using Passport JS and Cookies
