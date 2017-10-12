@@ -60,6 +60,8 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 
 #### Team Member: Wayne Cheng
 
+* Aframe
+
 - - -
 
 #### Team Member: Priyanka Arora
