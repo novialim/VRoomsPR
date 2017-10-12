@@ -49,6 +49,13 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 
 #### Team Member: Joseph Huynh
 
+* RESTful API back end for retrieving user, property, and room data
+* Client-side functions for accessing the back end API
+* Front/back end integration of 'NEW' page 
+* Amazon S3 integration (configuration, authentication, uploading image to S3 bucket)
+* Automatic image compression when client selects an image to upload
+* Optimization of production build config to reduce file size by 95%
+
 - - -
 
 #### Team Member: Wayne Cheng
@@ -57,11 +64,11 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 
 #### Team Member: Priyanka Arora
 * Researched on A-Frame(Web-VR framework) and introduced to team.
-* Part of Database schema design
-* Created table structure for User Authentication using Mongo DB.
-* Implemented User Authentication using Passport JS and Cookies
+* Contributed to database schema design
+* Created table structure for User Authentication using MongoDB
+* Implemented User Authentication using PassportJS and cookies
 * Development for pages: Sign Up and responsive Contact Us
 * Front/back end development and integration for 'User Authentication'
-* Front/back end development and integrated email functionality for 'Contact Us'  
-* Integrated 'Socket Programming' to determine the online viewers of a particular property. 
+* Front/back end development and integration of email functionality for 'Contact Us'  
+* Integrated 'Socket Programming' to display the current online viewers of a particular room 
 * Testing and Bug fixes
