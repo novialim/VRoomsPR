@@ -15,7 +15,6 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 * GET/POST 
 * A-Frame - WebVR
 * User Authentication using Passport.js
-* Zillow API
 
 - - -
 
@@ -23,6 +22,7 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 
 #### Project Manager: Novia Lim
 
+<<<<<<< HEAD
 * Establishes scope by studying strategic project drivers
 * Project research, planning & prototyping
 * Drive team to complete project according to predefined timeline 
@@ -34,6 +34,10 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 #### Implementation:
 
 * A-Frame(Web-VR framework) structure setup
+=======
+* A-Frame(Web-VR framework) structure setup
+* A-Frame Videosphere
+>>>>>>> 252b87bdabb0ea9d764d3aeaf68ef4ababeb9635
 * Front-end development (Vanilla CSS, HTML)
 * Responsive web design (Media queries)
 * Setup MVC folder structure
@@ -44,6 +48,16 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 * Mobile responsive implementation for Sign up/Sign in page
 * Prepare, insert, update and maintain database test data
 * Planning and integration across team members' modules
+
+#### Project Planning:
+
+* Establishes scope by studying strategic project drivers
+* Project research, planning & prototyping
+* Drive team to complete project according to predefined timeline 
+* Data consolidation & preparation
+* Write, proofread, edit and maintains content
+* Graphics, logo design (SVG vector) and art direction
+* UI/UX design / SVG animation preloader
 
 - - -
 
@@ -59,6 +73,8 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 - - -
 
 #### Team Member: Wayne Cheng
+
+* Aframe
 
 - - -
 
