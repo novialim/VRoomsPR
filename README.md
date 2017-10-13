@@ -22,8 +22,6 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 
 #### Project Manager: Novia Lim
 
-#### Implementation:
-
 * A-Frame(Web-VR framework) structure setup
 * A-Frame Videosphere
 * Front-end development (Vanilla CSS, HTML)
