@@ -15,7 +15,6 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 * GET/POST 
 * A-Frame - WebVR
 * User Authentication using Passport.js
-* Zillow API
 
 - - -
 
