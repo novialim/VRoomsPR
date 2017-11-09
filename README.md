@@ -60,7 +60,11 @@ VRooms allows you to create your VR app by using 360 images or videos without co
 
 #### Team Member: Wayne Cheng
 
-* Aframe
+* Lead A-Frame Developer
+* Adapted A-Frame for use with React.
+* Created A-Frame environment used in all rooms.
+* Designed and developed annotation creation system within A-Frame.
+* In-depth research of A-Frame's core technology and related applications.
 
 - - -
 
