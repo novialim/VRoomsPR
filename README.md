@@ -1,5 +1,5 @@
 # VRooms - Virtual Reality for Real Estate
-([http://www.vrooms.us](http://www.vrooms.us))
+([http://v-rooms.herokuapp.com/](http://v-rooms.herokuapp.com/))
 
 Welcome to the next generation of homebuying as we revolutionize the real estate industry. Discover an immersive and lifelike home tour experience using Virtual Reality (VR) technology. VRooms makes Virtual Reality for real estates engaging and accessible on both web and mobile platform. 
 
